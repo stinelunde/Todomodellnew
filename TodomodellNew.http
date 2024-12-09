@@ -1,0 +1,6 @@
+@TodomodellNew_HostAddress = http://localhost:5273
+
+GET {{TodomodellNew_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
